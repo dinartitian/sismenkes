@@ -170,8 +170,8 @@
                                 <!-- Message to the right -->
                                 <div class="direct-chat-msg right">
                                     <div class="direct-chat-infos clearfix">
-                                        <span class="direct-chat-name float-right">Sarah Bullock</span>
-                                        <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
+                                        <span class="direct-chat-name float-right">Wanda Jepara</span>
+                                        <span class="direct-chat-timestamp float-left">14 April 2:05 pm</span>
                                     </div>
                                     <!-- /.direct-chat-infos -->
                                     <img class="direct-chat-img" src="{{ asset('lte/dist/img/user3-128x128.jpg') }}"
@@ -187,8 +187,8 @@
                                 <!-- Message. Default to the left -->
                                 <div class="direct-chat-msg">
                                     <div class="direct-chat-infos clearfix">
-                                        <span class="direct-chat-name float-left">Alexander Pierce</span>
-                                        <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+                                        <span class="direct-chat-name float-left">Dinar Titian</span>
+                                        <span class="direct-chat-timestamp float-right">14 April 5:37 pm</span>
                                     </div>
                                     <!-- /.direct-chat-infos -->
                                     <img class="direct-chat-img" src="{{ asset('lte/dist/img/user1-128x128.jpg') }}"
@@ -204,8 +204,8 @@
                                 <!-- Message to the right -->
                                 <div class="direct-chat-msg right">
                                     <div class="direct-chat-infos clearfix">
-                                        <span class="direct-chat-name float-right">Sarah Bullock</span>
-                                        <span class="direct-chat-timestamp float-left">23 Jan 6:10 pm</span>
+                                        <span class="direct-chat-name float-right">Wanda Jepara</span>
+                                        <span class="direct-chat-timestamp float-left">14 April 6:10 pm</span>
                                     </div>
                                     <!-- /.direct-chat-infos -->
                                     <img class="direct-chat-img" src="{{ asset('lte/dist/img/user3-128x128.jpg') }}"
