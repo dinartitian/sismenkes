@@ -163,15 +163,15 @@
                             <!-- Message. Default to the left -->
                             <div class="direct-chat-msg">
                                 <div class="direct-chat-infos clearfix">
-                                    <span class="direct-chat-name float-left">Alexander Pierce</span>
-                                    <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+                                    <span class="direct-chat-name float-left">Dinar Titian</span>
+                                    <span class="direct-chat-timestamp float-right">14 April 2:00 pm</span>
                                 </div>
                                 <!-- /.direct-chat-infos -->
                                 <img class="direct-chat-img" src="{{asset('lte/dist/img/user1-128x128.jpg')}}"
                                     alt="message user image">
                                 <!-- /.direct-chat-img -->
                                 <div class="direct-chat-text">
-                                    Is this template really for free? That's unbelievable!
+                                    Ayo Guys Semangat !!!
                                 </div>
                                 <!-- /.direct-chat-text -->
                             </div>
@@ -180,8 +180,8 @@
                             <!-- Message to the right -->
                             <div class="direct-chat-msg right">
                                 <div class="direct-chat-infos clearfix">
-                                    <span class="direct-chat-name float-right">Sarah Bullock</span>
-                                    <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
+                                    <span class="direct-chat-name float-right">Wanda Jepara</span>
+                                    <span class="direct-chat-timestamp float-left">14 April 2:05 pm</span>
                                 </div>
                                 <!-- /.direct-chat-infos -->
                                 <img class="direct-chat-img" src="{{asset('lte/dist/img/user3-128x128.jpg')}}"
@@ -197,15 +197,15 @@
                             <!-- Message. Default to the left -->
                             <div class="direct-chat-msg">
                                 <div class="direct-chat-infos clearfix">
-                                    <span class="direct-chat-name float-left">Alexander Pierce</span>
-                                    <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+                                    <span class="direct-chat-name float-left">Dinar Titian</span>
+                                    <span class="direct-chat-timestamp float-right">15 April 5:37 pm</span>
                                 </div>
                                 <!-- /.direct-chat-infos -->
                                 <img class="direct-chat-img" src="{{asset('lte/dist/img/user1-128x128.jpg')}}"
                                     alt="message user image">
                                 <!-- /.direct-chat-img -->
                                 <div class="direct-chat-text">
-                                    Working with AdminLTE on a great new app! Wanna join?
+                                    OMG keren banget
                                 </div>
                                 <!-- /.direct-chat-text -->
                             </div>
@@ -214,8 +214,8 @@
                             <!-- Message to the right -->
                             <div class="direct-chat-msg right">
                                 <div class="direct-chat-infos clearfix">
-                                    <span class="direct-chat-name float-right">Sarah Bullock</span>
-                                    <span class="direct-chat-timestamp float-left">23 Jan 6:10 pm</span>
+                                    <span class="direct-chat-name float-right">Wanda Jepara</span>
+                                    <span class="direct-chat-timestamp float-left">15 April 6:10 pm</span>
                                 </div>
                                 <!-- /.direct-chat-infos -->
                                 <img class="direct-chat-img" src="{{asset('lte/dist/img/user3-128x128.jpg')}}"
