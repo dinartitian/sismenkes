@@ -16,19 +16,19 @@ class DokterSeeder extends Seeder
     {
         $dokters = [
             [
-                'nama' => 'Dr. John Doe',
-                'alamat' => 'Jl. Contoh No. 123',
+                'nama' => 'Dr. Lee Minho',
+                'alamat' => 'Jl. Kamar No. 123',
                 'no_hp' => '081234567890',
-                'email' => 'johndoe@gmail.com',
-                'password' => Hash::make('johndoe@gmail.com'),
+                'email' => 'leeminho@gmail.com',
+                'password' => Hash::make('leeminho@gmail.com'),
                 'role' => 'dokter',
             ],
             [
-                'nama' => 'Dr. Jane Smith',
-                'alamat' => 'Jl. Contoh No. 456',
+                'nama' => 'Dr. Gula Batu',
+                'alamat' => 'Jl. Rock No. 456',
                 'no_hp' => '081234567891',
-                'email' => 'janesmith@gmail.com',
-                'password' => Hash::make('janesmith@gmail.com'),
+                'email' => 'gulabatu@gmail.com',
+                'password' => Hash::make('gulabatu@gmail.com'),
                 'role' => 'dokter',
             ],
         ];
