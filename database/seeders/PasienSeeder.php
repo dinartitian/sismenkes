@@ -24,11 +24,11 @@ class PasienSeeder extends Seeder
                 'role' => 'pasien',
             ],
             [
-                'nama' => 'Rachel Lampung',
-                'alamat' => 'Jl. Lampung No. 456',
+                'nama' => 'Dinar Batang',
+                'alamat' => 'Jl. Batang No. 456',
                 'no_hp' => '081234567891',
-                'email' => 'rachellampung@gmail.com',
-                'password' => Hash::make('rachellampung@gmail.com'),
+                'email' => 'dinarbatang@gmail.com',
+                'password' => Hash::make('dinarbatang@gmail.com'),
                 'role' => 'pasien',
             ],
         ];
